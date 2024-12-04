@@ -30,7 +30,7 @@ Make sure you have the following installed:
 
 2.  manually install the dependencies:
     ```bash
-   - pip install flask scikit-learn numpy pandas
+    pip install flask scikit-learn numpy pandas
 
 
 ## Usage
